@@ -46,3 +46,11 @@ Consumet scrapes data from various websites and provides APIs for accessing the 
 ## Installation
 ### Locally
 installation is simple.
+
+ ##
+
+<div> 
+
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg) 
+
+
