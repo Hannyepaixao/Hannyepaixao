@@ -1,4 +1,4 @@
-### 𝑶𝒍á, 𝒆𝒖 𝒔𝒐 𝒂 𝑯𝒂𝒏𝒏𝒚𝒆 𝒑𝒂𝒊𝒙ã𝒐
+Oi### 𝑶𝒍á, 𝒆𝒖 𝒔𝒐 𝒂 𝑯𝒂𝒏𝒏𝒚𝒆 𝒑𝒂𝒊𝒙ã𝒐
 . _hoje meus projetos está mas para canal de Música 
 . 🌺 fasso bot de Música 
 . 💐 Canal de Música 
@@ -30,27 +30,7 @@ Consumet scrapes data from various websites and provides APIs for accessing the 
 <h2> Table of Contents </h2>
 
 - [Installation](#installation)
-  - [Locally](#locally)
-  - [Docker](#docker)
-  - [Heroku](#heroku)
-  - [Vercel](#vercel)
-  - [Render](#render)
-  - [Railway](#railway)
-- [Documentation](#documentation)
-- [Development](#development)
-- [Showcases](#showcases)
-- [Provider Request](#provider-request)
-- [Support](#support)
-- [Related repositories](#related-repositories)
-
-## Installation
-### Locally
-installation is simple.
-
- ##
-
-<div> 
-
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg) 
+   - [Heroku](#heroku)
+  
 
 
