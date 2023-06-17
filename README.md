@@ -24,3 +24,25 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+Consumet scrapes data from various websites and provides APIs for accessing the data to satisfy your needs.
+
+<h2> Table of Contents </h2>
+
+- [Installation](#installation)
+  - [Locally](#locally)
+  - [Docker](#docker)
+  - [Heroku](#heroku)
+  - [Vercel](#vercel)
+  - [Render](#render)
+  - [Railway](#railway)
+- [Documentation](#documentation)
+- [Development](#development)
+- [Showcases](#showcases)
+- [Provider Request](#provider-request)
+- [Support](#support)
+- [Related repositories](#related-repositories)
+
+## Installation
+### Locally
+installation is simple.
